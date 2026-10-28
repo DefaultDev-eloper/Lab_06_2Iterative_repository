@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab_06_2.1d90f217\\x64\\Debug\\Lab_06_2Iterative.obj",
+            "outputs": [
+                "Lab_06_2.1d90f217\\x64\\Debug\\Lab_06_2Iterative.cpp.obj.dt.module.json",
+                "Lab_06_2.1d90f217\\x64\\Debug\\Lab_06_2Iterative.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
